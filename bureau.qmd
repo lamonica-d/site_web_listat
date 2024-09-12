@@ -1,0 +1,26 @@
+---
+title: "Membres du bureau"
+---
+
+::: {layout-ncol=5}
+![Nicolas BEZ, IRD Marbec](images/bez.jpg){width=5em}
+
+![Dedah AHMED-BABOU, IRD Marbec](images/no-profile.jpg){width=5em}
+
+![Sophie LANCO, IRD Marbec](images/lanco.jpeg){width=5em} 
+
+![David BAUMAN, IRD AMAP](images/bauman.jpeg){width=5em} 
+
+![Jihad ZAHIR, IRD UMMISCO, LISI](images/no-profile.jpg){width=5em} 
+
+![Dominique LAMONICA, IRD AMAP](images/lamonica.jpg){width=5em}
+:::
+
+
+::: {layout-ncol=2}
+![Stéphane Dray, CNRS, LBBE](images/dray.jpg){width=5em}
+
+![Olivier GIMENEZ, CNRS, CEFE](images/gimenez.png){width=5em}
+:::
+
+

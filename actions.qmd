@@ -1,0 +1,28 @@
+---
+title: "Actions"
+---
+
+## Actualités
+
+Retrouvez les actualités de l'IRN [ici](actus.qmd).
+
+
+## Thématiques
+
+Dans sa phase d’amorçage, le réseau a identifié trois thèmes principaux (mais non exclusifs d’autres thèmes) à savoir :
+
+* méthodes multidimensionnelles (multivariées, spatio-temporelles)
+
+* modèles hiérarchiques, modèles à espace d’états (modèles de dynamiques des populations, modèles épidémiologiques, …)
+
+* intelligence artificielle
+
+
+## Actions
+
+* le soutien financier à des stages co-encadrés par des partenaires Sud-Sud-Nord de LiStat
+
+* le soutien financier à des mobilités de scientifiques entre laboratoires Sud-Sud-Nord de LiStat
+
+* l’organisation de formation sur des thèmes d’intérêts identifiés par les membres de LiStat
+
