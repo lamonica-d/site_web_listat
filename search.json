@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "actions.html",
+    "href": "actions.html",
+    "title": "Actions",
+    "section": "",
+    "text": "Retrouvez les actualités de l’IRN ici."
+  },
+  {
+    "objectID": "actions.html#actualités",
+    "href": "actions.html#actualités",
+    "title": "Actions",
+    "section": "",
+    "text": "Retrouvez les actualités de l’IRN ici."
+  },
+  {
+    "objectID": "actions.html#thématiques",
+    "href": "actions.html#thématiques",
+    "title": "Actions",
+    "section": "Thématiques",
+    "text": "Thématiques\nDans sa phase d’amorçage, le réseau a identifié trois thèmes principaux (mais non exclusifs d’autres thèmes) à savoir :\n\nméthodes multidimensionnelles (multivariées, spatio-temporelles)\nmodèles hiérarchiques, modèles à espace d’états (modèles de dynamiques des populations, modèles épidémiologiques, …)\nintelligence artificielle"
+  },
+  {
+    "objectID": "actions.html#actions",
+    "href": "actions.html#actions",
+    "title": "Actions",
+    "section": "Actions",
+    "text": "Actions\n\nle soutien financier à des stages co-encadrés par des partenaires Sud-Sud-Nord de LiStat\nle soutien financier à des mobilités de scientifiques entre laboratoires Sud-Sud-Nord de LiStat\nl’organisation de formation sur des thèmes d’intérêts identifiés par les membres de LiStat"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,11 +35,25 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "bureau.html",
-    "href": "bureau.html",
-    "title": "Membres du bureau",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "International Research Network for Life Statistics",
     "section": "",
-    "text": "Nicolas BEZ, IRD Marbec\n\n\n\n\n\n\n\nDedah AHMED-BABOU, IRD Marbec\n\n\n\n\n\n\n\nSophie LANCO, IRD Marbec\n\n\n\n\n\n\n\nDavid BAUMAN, IRD AMAP\n\n\n\n\n\n\n\nJihad ZAHIR, IRD UMMISCO, LISI\n\n\n\n\n\n\n\nDominique LAMONICA, IRD AMAP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStéphane Dray, CNRS, LBBE\n\n\n\n\n\n\n\nOlivier GIMENEZ, CNRS, CEFE"
+    "text": "L’IRN LiStat propose de soutenir financièrement des mobilités inter-laboratoires pour autant qu’un des laboratoires est un laboratoire du sud et que le travail envisagé est cohérent avec les ambitions scientifiques de LiStat.\n\nPlus d’info ici."
+  },
+  {
+    "objectID": "index.html#actualités",
+    "href": "index.html#actualités",
+    "title": "International Research Network for Life Statistics",
+    "section": "",
+    "text": "L’IRN LiStat propose de soutenir financièrement des mobilités inter-laboratoires pour autant qu’un des laboratoires est un laboratoire du sud et que le travail envisagé est cohérent avec les ambitions scientifiques de LiStat.\n\nPlus d’info ici."
+  },
+  {
+    "objectID": "index.html#quest-ce-que-listat",
+    "href": "index.html#quest-ce-que-listat",
+    "title": "International Research Network for Life Statistics",
+    "section": "Qu’est ce que LiStat ?",
+    "text": "Qu’est ce que LiStat ?\nL’IRN LiStat (International Research Network for Life Statistics) vise à créer un réseau de scientifiques basé sur le partenariat de l’IRD (Institut de Recherche pour le Développement) et dédié au développement d’approches statistiques pour l’écologie et les sciences de la vie. L’initiative répond à un besoin fort et général de relever les défis urgents liés au changement climatique et à la crise de la biodiversité, entre autres. L’initiative est aussi transversale au sein de l’IRD puisqu’elle concerne des scientifiques de plusieurs commissions scientifiques (CSS), départements et UMR. Le réseau s’appuie sur un GDR CNRS, EcoStat, dédié au même sujet.\nCe réseau est un prolongement du GdR Ecostat vers les suds dont les objectifs principaux sont :\n\névaluer les méthodes statistiques existantes en utilisant des vraies données ou des données simulées afin de promouvoir des bonnes pratiques,\nexplorer et si besoin adapter l’application de méthodes récentes aux sciences du vivant,\ndévelopper de nouvelles approches statistiques et,\nassurer le transfert de connaissances aux utilisateurs potentiels de ces méthodes, en mettant l’accent sur le Sud.\n\nL’IRN LiStat a été créé en février 2024."
   },
   {
     "objectID": "actus.html",
@@ -42,53 +84,11 @@
     "text": "Comment postuler ?\nDans ce cadre que nous souhaitons très souple, merci de nous faire remonter vos demandes d’ici au 20 septembre 2024 via le formulaire suivant.\n\nIl sera demandé aux personnes ayant bénéficié d’un soutien LiStat d’envoyer quelques lignes de présentation de leur travail. Ce court texte sera ensuite diffusé sur la liste de diffusion LiStat et archivé sur le site web de LiStat."
   },
   {
-    "objectID": "actions.html",
-    "href": "actions.html",
-    "title": "Actions",
+    "objectID": "bureau.html",
+    "href": "bureau.html",
+    "title": "Membres du bureau",
     "section": "",
-    "text": "Retrouvez les actualités de l’IRN ici."
-  },
-  {
-    "objectID": "actions.html#actualités",
-    "href": "actions.html#actualités",
-    "title": "Actions",
-    "section": "",
-    "text": "Retrouvez les actualités de l’IRN ici."
-  },
-  {
-    "objectID": "actions.html#thématiques",
-    "href": "actions.html#thématiques",
-    "title": "Actions",
-    "section": "Thématiques",
-    "text": "Thématiques\nDans sa phase d’amorçage, le réseau a identifié trois thèmes principaux (mais non exclusifs d’autres thèmes) à savoir :\n\nméthodes multidimensionnelles (multivariées, spatio-temporelles)\nmodèles hiérarchiques, modèles à espace d’états (modèles de dynamiques des populations, modèles épidémiologiques, …)\nintelligence artificielle"
-  },
-  {
-    "objectID": "actions.html#actions",
-    "href": "actions.html#actions",
-    "title": "Actions",
-    "section": "Actions",
-    "text": "Actions\n\nle soutien financier à des stages co-encadrés par des partenaires Sud-Sud-Nord de LiStat\nle soutien financier à des mobilités de scientifiques entre laboratoires Sud-Sud-Nord de LiStat\nl’organisation de formation sur des thèmes d’intérêts identifiés par les membres de LiStat"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "International Research Network for Life Statistics",
-    "section": "",
-    "text": "L’IRN LiStat propose de soutenir financièrement des mobilités inter-laboratoires pour autant qu’un des laboratoires est un laboratoire du sud et que le travail envisagé est cohérent avec les ambitions scientifiques de LiStat.\n\nPlus d’info ici."
-  },
-  {
-    "objectID": "index.html#actualités",
-    "href": "index.html#actualités",
-    "title": "International Research Network for Life Statistics",
-    "section": "",
-    "text": "L’IRN LiStat propose de soutenir financièrement des mobilités inter-laboratoires pour autant qu’un des laboratoires est un laboratoire du sud et que le travail envisagé est cohérent avec les ambitions scientifiques de LiStat.\n\nPlus d’info ici."
-  },
-  {
-    "objectID": "index.html#quest-ce-que-listat",
-    "href": "index.html#quest-ce-que-listat",
-    "title": "International Research Network for Life Statistics",
-    "section": "Qu’est ce que LiStat ?",
-    "text": "Qu’est ce que LiStat ?\nL’IRN LiStat (International Research Network for Life Statistics) vise à créer un réseau de scientifiques basé sur le partenariat de l’IRD (Institut de Recherche pour le Développement) et dédié au développement d’approches statistiques pour l’écologie et les sciences de la vie. L’initiative répond à un besoin fort et général de relever les défis urgents liés au changement climatique et à la crise de la biodiversité, entre autres. L’initiative est aussi transversale au sein de l’IRD puisqu’elle concerne des scientifiques de plusieurs commissions scientifiques (CSS), départements et UMR. Le réseau s’appuie sur un GDR CNRS, EcoStat, dédié au même sujet.\nCe réseau est un prolongement du GdR Ecostat vers les suds dont les objectifs principaux sont :\n\névaluer les méthodes statistiques existantes en utilisant des vraies données ou des données simulées afin de promouvoir des bonnes pratiques,\nexplorer et si besoin adapter l’application de méthodes récentes aux sciences du vivant,\ndévelopper de nouvelles approches statistiques et,\nassurer le transfert de connaissances aux utilisateurs potentiels de ces méthodes, en mettant l’accent sur le Sud.\n\nL’IRN LiStat a été créé en février 2024."
+    "text": "Nicolas BEZ, IRD Marbec\n\n\n\n\n\n\n\nDedah AHMED-BABOU, IRD Marbec\n\n\n\n\n\n\n\nSophie LANCO, IRD Marbec\n\n\n\n\n\n\n\nDavid BAUMAN, IRD AMAP\n\n\n\n\n\n\n\nJihad ZAHIR, IRD UMMISCO, LISI\n\n\n\n\n\n\n\nDominique LAMONICA, IRD AMAP\n\n\n\n\n\n\n\n\n\n\n\nStéphane Dray, CNRS, LBBE\n\n\n\n\n\n\n\nOlivier GIMENEZ, CNRS, CEFE"
   },
   {
     "objectID": "contact.html",
