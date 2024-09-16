@@ -6,17 +6,11 @@ about:
   image-width: 7em
 ---
 
-## Actualités
-
-L’IRN LiStat propose de soutenir financièrement des **mobilités inter-laboratoires** pour autant qu’un des laboratoires est **un laboratoire du sud** et que le travail envisagé est cohérent avec les ambitions scientifiques de LiStat.\
-
-Plus d'info [ici](actus.qmd).
-
 ## Qu'est ce que LiStat ?
 
-L'IRN LiStat (International Research Network for Life Statistics) vise à créer un réseau de scientifiques basé sur le partenariat de l'IRD (Institut de Recherche pour le Développement) et dédié au développement d'approches statistiques pour l'écologie et les sciences de la vie. L'initiative répond à un besoin fort et général de relever les défis urgents liés au changement climatique et à la crise de la biodiversité, entre autres. L'initiative est aussi transversale au sein de l'IRD puisqu'elle concerne des scientifiques de plusieurs commissions scientifiques (CSS), départements et UMR. Le réseau s'appuie sur un GDR CNRS, EcoStat, dédié au même sujet.
+L'IRN LiStat (International Research Network for Life Statistics) vise à créer un réseau de scientifiques basé sur le partenariat de l'IRD (Institut de Recherche pour le Développement) et dédié au développement d'approches statistiques pour l'écologie et les sciences de la vie. L'initiative répond à un besoin fort et général de relever les défis urgents liés au changement climatique et à la crise de la biodiversité, entre autres. L'initiative est aussi transversale au sein de l'IRD puisqu'elle concerne des scientifiques de plusieurs commissions scientifiques (CSS), départements et UMR.\
 
-Ce réseau est un prolongement du GdR Ecostat vers les suds dont les objectifs principaux sont :
+Le réseau partage les ambitions scientifiques du GdR [Ecostat](https://sites.google.com/site/gdrecostat/accueil) en le prolongeant vers les suds. Ses objectifs sont :
 
 * évaluer les méthodes statistiques existantes en utilisant des vraies données ou des données simulées afin de promouvoir des bonnes pratiques,
 
