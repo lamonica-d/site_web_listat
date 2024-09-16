@@ -2,7 +2,7 @@
 title: "Membres du bureau"
 ---
 
-::: {layout-ncol=5}
+::: {layout-ncol=6}
 ![Nicolas BEZ, IRD Marbec](images/bez.jpg){width=5em}
 
 ![Dedah AHMED-BABOU, IRD Marbec](images/no-profile.jpg){width=5em}
