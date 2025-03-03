@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8647a4a42273f773479d27c00df3f9ed.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -125,6 +154,11 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#actualités" id="toc-actualités" class="nav-link active" data-scroll-target="#actualités">Actualités</a></li>
+  <li><a href="#actions-2024" id="toc-actions-2024" class="nav-link" data-scroll-target="#actions-2024">Actions 2024</a>
+  <ul class="collapse">
+  <li><a href="#école-jeunes-chercheurs-lia-pour-le-milieu-marin" id="toc-école-jeunes-chercheurs-lia-pour-le-milieu-marin" class="nav-link" data-scroll-target="#école-jeunes-chercheurs-lia-pour-le-milieu-marin">École jeunes chercheurs : l’IA pour le milieu marin</a></li>
+  <li><a href="#mobilités-textes-à-venir" id="toc-mobilités-textes-à-venir" class="nav-link" data-scroll-target="#mobilités-textes-à-venir">Mobilités (textes à venir)</a></li>
+  </ul></li>
   <li><a href="#thématiques" id="toc-thématiques" class="nav-link" data-scroll-target="#thématiques">Thématiques</a></li>
   <li><a href="#actions" id="toc-actions" class="nav-link" data-scroll-target="#actions">Actions</a></li>
   </ul>
@@ -155,6 +189,29 @@ ul.task-list li input[type="checkbox"] {
 <section id="actualités" class="level2">
 <h2 class="anchored" data-anchor-id="actualités">Actualités</h2>
 <p>Retrouvez les actualités de l’IRN <a href="./actus.html">ici</a>.</p>
+</section>
+<section id="actions-2024" class="level2">
+<h2 class="anchored" data-anchor-id="actions-2024">Actions 2024</h2>
+<section id="école-jeunes-chercheurs-lia-pour-le-milieu-marin" class="level3">
+<h3 class="anchored" data-anchor-id="école-jeunes-chercheurs-lia-pour-le-milieu-marin">École jeunes chercheurs : l’IA pour le milieu marin</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/flyer_seminaire1.png" class="img-fluid figure-img" style="width:10em"></p>
+<figcaption>Retour sur le séminaire interdisciplinaire jeunes chercheur<span class="math inline">\(\cdot\)</span>euses qui a eu lieu les 26, 27 et 28 novembre 2024 à l’Université Cadi Ayyad – Marrakech – Maroc.</figcaption>
+</figure>
+</div>
+<p>Ce séminaire s’inscrit dans le cadre du Projet Nawras qui vise à évaluer la protection juridique de l’environnement marin grâce à l’Intelligence Artificielle. Co-organisé par l’Université Cadi Ayyad et l’Institut de Recherche pour le Développement, il a rassemblé des chercheur<span class="math inline">\(\cdot\)</span>euses en sciences de la mer, en droit et en intelligence artificielle travaillant sur des sujets transverses.</p>
+<p><img src="images/group_photo_seminaire1.png" class="img-fluid" style="width:15em"></p>
+<p>Le séminaire a permis de stimuler les collaborations entre jeunes chercheur<span class="math inline">\(\cdot\)</span>euses. Les présentations ont mêlé thématiques globales, questionnements éthiques et applications précises. Les sujets de thèse ont été présentés sous forme de posters, et au cours d’une conférence grand public à l’Université Cadi Ayyad pour présenter la variété d’enjeux de protection des océans et les perspectives émergentes.</p>
+</section>
+<section id="mobilités-textes-à-venir" class="level3">
+<h3 class="anchored" data-anchor-id="mobilités-textes-à-venir">Mobilités (textes à venir)</h3>
+<ul>
+<li><p>Wendpanga BIRBA</p></li>
+<li><p>Rickarlos BEZANDRY</p></li>
+<li><p>Radosoa ANDRIANAIVOARIVELO</p></li>
+</ul>
+</section>
 </section>
 <section id="thématiques" class="level2">
 <h2 class="anchored" data-anchor-id="thématiques">Thématiques</h2>
@@ -259,8 +316,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -371,7 +426,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
