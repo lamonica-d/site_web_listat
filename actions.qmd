@@ -6,6 +6,25 @@ title: "Actions"
 
 Retrouvez les actualités de l'IRN [ici](actus.qmd).
 
+## Actions 2024
+
+### École jeunes chercheurs : l’IA pour le milieu marin
+
+![Retour sur le séminaire interdisciplinaire jeunes chercheur$\cdot$euses qui a eu lieu les 26, 27 et 28 novembre 2024 à l’Université Cadi Ayyad – Marrakech – Maroc.](images/flyer_seminaire1.png){width="10em"}
+
+Ce séminaire s'inscrit dans le cadre du Projet Nawras qui vise à évaluer la protection juridique de l’environnement marin grâce à l’Intelligence Artificielle. Co-organisé par l’Université Cadi Ayyad et l’Institut de Recherche pour le Développement, il a rassemblé des chercheur$\cdot$euses en sciences de la mer, en droit et en intelligence artificielle travaillant sur des sujets transverses.
+
+![](images/group_photo_seminaire1.png){width="15em"}
+
+Le séminaire a permis de stimuler les collaborations entre jeunes chercheur$\cdot$euses. Les présentations ont mêlé thématiques globales, questionnements éthiques et applications précises. Les sujets de thèse ont été présentés sous forme de posters, et au cours d'une conférence grand public à l’Université Cadi Ayyad pour présenter la variété d’enjeux de protection des océans et les perspectives émergentes.
+
+### Mobilités (textes à venir)
+
+* Wendpanga BIRBA
+
+* Rickarlos BEZANDRY
+
+* Radosoa ANDRIANAIVOARIVELO
 
 ## Thématiques
 
