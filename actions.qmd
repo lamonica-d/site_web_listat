@@ -23,6 +23,7 @@ Le séminaire a permis de stimuler les collaborations entre jeunes chercheur$\cd
 * *Wendpanga BIRBA* \
 La dengue, une infection virale transmise par les moustiques, représente un défi de santé publique majeur dans les régions tropicales et subtropicales. Le virus présente quatre sérotypes dont la co-circulation dans une même population humaine augmente le risque de réinfection, chaque réinfection par un sérotype différent étant associée à un risque accru de complications graves.
 Ma mission s’intégrait dans un projet qui vise à développer un modèle intégrant les quatre sérotypes pour fournir une représentation précise de la dynamique épidémique. En incorporant des mécanismes d'autorégulation de l'environnement, ce modèle permet d'analyser l'impact de la densité vectorielle sur la  propagation de la maladie. Ce travail pourrait fournir un support précieux pour les décideurs en santé publique dans la lutte contre la dengue.
+![Modélisation mathématique de la dengue](images/RapportBirba.pdf){width="15em"}
 
 * *Rickarlos BEZANDRY* \ 
 (à venir)
