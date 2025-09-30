@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lamonica-d.github.io/site_web_listat/contact.html</loc>
-    <lastmod>2025-03-06T15:51:15.781Z</lastmod>
+    <loc>https://lamonica-d.github.io/site_web_listat/about.html</loc>
+    <lastmod>2025-09-30T09:47:19.828Z</lastmod>
   </url>
   <url>
     <loc>https://lamonica-d.github.io/site_web_listat/actus.html</loc>
-    <lastmod>2025-03-06T15:51:15.781Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lamonica-d.github.io/site_web_listat/about.html</loc>
-    <lastmod>2025-03-06T15:51:15.781Z</lastmod>
+    <lastmod>2025-09-30T09:47:19.828Z</lastmod>
   </url>
   <url>
     <loc>https://lamonica-d.github.io/site_web_listat/index.html</loc>
-    <lastmod>2025-03-06T15:51:15.796Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lamonica-d.github.io/site_web_listat/bureau.html</loc>
-    <lastmod>2025-03-06T15:51:15.781Z</lastmod>
+    <lastmod>2025-09-30T09:47:19.843Z</lastmod>
   </url>
   <url>
     <loc>https://lamonica-d.github.io/site_web_listat/actions.html</loc>
-    <lastmod>2025-03-06T15:51:15.781Z</lastmod>
+    <lastmod>2025-09-30T09:47:19.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lamonica-d.github.io/site_web_listat/bureau.html</loc>
+    <lastmod>2025-09-30T09:47:19.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lamonica-d.github.io/site_web_listat/contact.html</loc>
+    <lastmod>2025-09-30T09:47:19.829Z</lastmod>
   </url>
 </urlset>

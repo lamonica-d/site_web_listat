@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact & liste de diffusion",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Si vous le souhaitez, vous pouvez vous inscrire à la liste de diffusion pour suivre les activités du réseau et proposer des actions (offres de stage et de mobilité, annonces de séminaires/webinaires/formations, etc.). La procédure est très simple :\n\nEnvoyer un mail à « sympa(at)listes.ird.fr »\nDans l’objet du mail inscrire « subscribe listat prénom NOM »\nNe rien mettre dans le corps du mail\n\nUn mail de confirmation d’inscription est envoyé en retour."
-  },
-  {
-    "objectID": "contact.html#comment-sabonner-à-la-liste-de-diffusion",
-    "href": "contact.html#comment-sabonner-à-la-liste-de-diffusion",
-    "title": "Contact & liste de diffusion",
-    "section": "",
-    "text": "Si vous le souhaitez, vous pouvez vous inscrire à la liste de diffusion pour suivre les activités du réseau et proposer des actions (offres de stage et de mobilité, annonces de séminaires/webinaires/formations, etc.). La procédure est très simple :\n\nEnvoyer un mail à « sympa(at)listes.ird.fr »\nDans l’objet du mail inscrire « subscribe listat prénom NOM »\nNe rien mettre dans le corps du mail\n\nUn mail de confirmation d’inscription est envoyé en retour."
-  },
-  {
-    "objectID": "contact.html#contacts",
-    "href": "contact.html#contacts",
-    "title": "Contact & liste de diffusion",
-    "section": "Contacts",
-    "text": "Contacts\nPour toute demande d’information concernant l’IRN LiStat, merci de contacter\n\nNicolas BEZ - nicolas.bez(at)ird.fr\nIRD, UMR Marbec, Sète, France,\n\nou\n\nDominique LAMONICA - dominique.lamonica(at)ird.fr\nIRD, UMR AMAP, Montpellier, France."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "actus.html",
@@ -63,13 +49,6 @@
     "text": "Comment postuler ?\nDans ce cadre que nous souhaitons très souple, merci de nous faire remonter vos demandes d’ici via le formulaire suivant.\n\nIl sera demandé aux personnes ayant bénéficié d’un soutien LiStat d’envoyer quelques lignes de présentation de leur travail. Ce court texte sera ensuite diffusé sur la liste de diffusion LiStat et archivé sur le site web de LiStat."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "International Research Network for Life Statistics",
@@ -82,13 +61,6 @@
     "title": "International Research Network for Life Statistics",
     "section": "",
     "text": "L’IRN LiStat (International Research Network for Life Statistics) vise à créer un réseau de scientifiques basé sur le partenariat de l’IRD (Institut de Recherche pour le Développement) et dédié au développement d’approches statistiques pour l’écologie et les sciences de la vie. L’initiative répond à un besoin fort et général de relever les défis urgents liés au changement climatique et à la crise de la biodiversité, entre autres. L’initiative est aussi transversale au sein de l’IRD puisqu’elle concerne des scientifiques de plusieurs commissions scientifiques (CSS), départements et UMR.\n\nLe réseau partage les ambitions scientifiques du GdR Ecostat en le prolongeant vers les suds. Ses objectifs sont :\n\névaluer les méthodes statistiques existantes en utilisant des vraies données ou des données simulées afin de promouvoir des bonnes pratiques,\nexplorer et si besoin adapter l’application de méthodes récentes aux sciences du vivant,\ndévelopper de nouvelles approches statistiques et,\nassurer le transfert de connaissances aux utilisateurs potentiels de ces méthodes, en mettant l’accent sur le Sud.\n\nL’IRN LiStat a été créé en février 2024."
-  },
-  {
-    "objectID": "bureau.html",
-    "href": "bureau.html",
-    "title": "Membres du bureau",
-    "section": "",
-    "text": "Nicolas BEZ, IRD Marbec\n\n\n\n\n\n\n\nDedah AHMED-BABOU, IRD Marbec\n\n\n\n\n\n\n\nSophie LANCO, IRD Marbec\n\n\n\n\n\n\n\nDavid BAUMAN, IRD AMAP\n\n\n\n\n\n\n\nJihad ZAHIR, IRD UMMISCO, LISI\n\n\n\n\n\n\n\nDominique LAMONICA, IRD AMAP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStéphane Dray, CNRS, LBBE\n\n\n\n\n\n\n\nOlivier GIMENEZ, CNRS, CEFE"
   },
   {
     "objectID": "actions.html",
@@ -109,7 +81,7 @@
     "href": "actions.html#actions-2024",
     "title": "Actions",
     "section": "Actions 2024",
-    "text": "Actions 2024\n\nÉcole jeunes chercheurs : l’IA pour le milieu marin\n\n\n\nRetour sur le séminaire interdisciplinaire jeunes chercheur\\(\\cdot\\)euses qui a eu lieu les 26, 27 et 28 novembre 2024 à l’Université Cadi Ayyad – Marrakech – Maroc.\n\n\nCe séminaire s’inscrit dans le cadre du Projet Nawras qui vise à évaluer la protection juridique de l’environnement marin grâce à l’Intelligence Artificielle. Co-organisé par l’Université Cadi Ayyad et l’Institut de Recherche pour le Développement, il a rassemblé des chercheur\\(\\cdot\\)euses en sciences de la mer, en droit et en intelligence artificielle travaillant sur des sujets transverses.\n\nLe séminaire a permis de stimuler les collaborations entre jeunes chercheur\\(\\cdot\\)euses. Les présentations ont mêlé thématiques globales, questionnements éthiques et applications précises. Les sujets de thèse ont été présentés sous forme de posters, et au cours d’une conférence grand public à l’Université Cadi Ayyad pour présenter la variété d’enjeux de protection des océans et les perspectives émergentes.\n\n\nMobilités\n\nWendpanga BIRBA\nLa dengue, une infection virale transmise par les moustiques, représente un défi de santé publique majeur dans les régions tropicales et subtropicales. Le virus présente quatre sérotypes dont la co-circulation dans une même population humaine augmente le risque de réinfection, chaque réinfection par un sérotype différent étant associée à un risque accru de complications graves. Ma mission s’intégrait dans un projet qui vise à développer un modèle intégrant les quatre sérotypes pour fournir une représentation précise de la dynamique épidémique. En incorporant des mécanismes d’autorégulation de l’environnement, ce modèle permet d’analyser l’impact de la densité vectorielle sur la propagation de la maladie. Ce travail pourrait fournir un support précieux pour les décideurs en santé publique dans la lutte contre la dengue.\nRickarlos BEZANDRY   (à venir)\nRadosoa ANDRIANAIVOARIVELO\nMa mission dans le cadre de l’étude de l’écologie des chauves-souris frugivores et de l’analyse statistique des données obtenues à Madagascar (Rufford Small Grants) a permis d’avoir des résultats pertinents sur la caractérisation des sites d’alimentation et des plantes utilisées par les chauves-souris. Cette mission financée par LISTAT était accueillie au sein de l’UMR DECOD (Dynamique et durabilité des écosystèmes : de la source à l’océan) par Éric Petit, chercheur à INRAE. Cette mission a permis de renforcer la collaboration entre des départements de recherche en France et à Madagascar et d’amorcer la publication des résultats.\n\n\n\n\nÉric & Radosoa"
+    "text": "Actions 2024\n\nÉcole jeunes chercheurs : l’IA pour le milieu marin\n\n\n\nRetour sur le séminaire interdisciplinaire jeunes chercheur\\(\\cdot\\)euses qui a eu lieu les 26, 27 et 28 novembre 2024 à l’Université Cadi Ayyad – Marrakech – Maroc.\n\n\nCe séminaire s’inscrit dans le cadre du Projet Nawras qui vise à évaluer la protection juridique de l’environnement marin grâce à l’Intelligence Artificielle. Co-organisé par l’Université Cadi Ayyad et l’Institut de Recherche pour le Développement, il a rassemblé des chercheur\\(\\cdot\\)euses en sciences de la mer, en droit et en intelligence artificielle travaillant sur des sujets transverses.\n\nLe séminaire a permis de stimuler les collaborations entre jeunes chercheur\\(\\cdot\\)euses. Les présentations ont mêlé thématiques globales, questionnements éthiques et applications précises. Les sujets de thèse ont été présentés sous forme de posters, et au cours d’une conférence grand public à l’Université Cadi Ayyad pour présenter la variété d’enjeux de protection des océans et les perspectives émergentes.\n\n\nMobilités\n\nWendpanga BIRBA\nLa dengue, une infection virale transmise par les moustiques, représente un défi de santé publique majeur dans les régions tropicales et subtropicales. Le virus présente quatre sérotypes dont la co-circulation dans une même population humaine augmente le risque de réinfection, chaque réinfection par un sérotype différent étant associée à un risque accru de complications graves. Ma mission s’intégrait dans un projet qui vise à développer un modèle intégrant les quatre sérotypes pour fournir une représentation précise de la dynamique épidémique. En incorporant des mécanismes d’autorégulation de l’environnement, ce modèle permet d’analyser l’impact de la densité vectorielle sur la propagation de la maladie. Ce travail pourrait fournir un support précieux pour les décideurs en santé publique dans la lutte contre la dengue.\nRickarlos BEZANDRY   La dynamique actuelle du changement global menace la production et la pérennité de nombreuses denrées mondiales. Parmi ces produits, le café occupe une place centrale à la fois pour les moyens de subsistance de millions de petits exploitants, et en tant que ressource particulièrement menacée par le changement climatique. Certaines espèces sauvages rares de café poussant dans des paysages très arides à Madagascar représentent une ressource génétique cruciale pour développer de nouvelles variétés de café résistantes et faire face aux défis environnementaux actuels. Notre projet montre qu’une approche botanique des espèces de café sauvages peut fournir les connaissances nécessaires pour orienter les stratégies d’amélioration variétale et créer des variétés de café résilientes face au climat. Avec le soutien de l’INR LiStat, nous avons mis en place des minis ateliers pour démontrer statistiquement l’intérêt de cette approche.\n\n\nThe current global change dynamic is threatening the production and maintenance of many global commodities. Among these products, Coffee is at the same time central for the livelihoods of millions of smallholder farmers, and one of the most threatened resources by climate change. Some rare wild coffee species growing in very dry landscapes in Madagascar, offer a crucial genetic resource to breed new resistant coffee varieties and overcome ongoing environmental challenges. Here, we show that a botanical approach of wild coffee species can provide the required knowledge to guide breeding strategies and climate-create resilient coffee varieties. With the support of INR LiStat, we set up mini-workshops to statistically demonstrate the value of this approach.\n\nRadosoa ANDRIANAIVOARIVELO\nMa mission dans le cadre de l’étude de l’écologie des chauves-souris frugivores et de l’analyse statistique des données obtenues à Madagascar (Rufford Small Grants) a permis d’avoir des résultats pertinents sur la caractérisation des sites d’alimentation et des plantes utilisées par les chauves-souris. Cette mission financée par LISTAT était accueillie au sein de l’UMR DECOD (Dynamique et durabilité des écosystèmes : de la source à l’océan) par Éric Petit, chercheur à INRAE. Cette mission a permis de renforcer la collaboration entre des départements de recherche en France et à Madagascar et d’amorcer la publication des résultats.\n\n\n\n\nÉric & Radosoa"
   },
   {
     "objectID": "actions.html#thématiques",
@@ -124,5 +96,33 @@
     "title": "Actions",
     "section": "Actions",
     "text": "Actions\n\nle soutien financier à des stages co-encadrés par des partenaires Sud-Sud-Nord de LiStat\nle soutien financier à des mobilités de scientifiques entre laboratoires Sud-Sud-Nord de LiStat\nl’organisation de formation sur des thèmes d’intérêts identifiés par les membres de LiStat"
+  },
+  {
+    "objectID": "bureau.html",
+    "href": "bureau.html",
+    "title": "Membres du bureau",
+    "section": "",
+    "text": "Nicolas BEZ, IRD Marbec\n\n\n\n\n\n\n\nDedah AHMED-BABOU, IRD Marbec\n\n\n\n\n\n\n\nSophie LANCO, IRD Marbec\n\n\n\n\n\n\n\nDavid BAUMAN, IRD AMAP\n\n\n\n\n\n\n\nJihad ZAHIR, IRD UMMISCO, LISI\n\n\n\n\n\n\n\nDominique LAMONICA, IRD AMAP\n\n\n\n\n\n\n\n\n\n\n\nStéphane Dray, CNRS, LBBE\n\n\n\n\n\n\n\nOlivier GIMENEZ, CNRS, CEFE"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact & liste de diffusion",
+    "section": "",
+    "text": "Si vous le souhaitez, vous pouvez vous inscrire à la liste de diffusion pour suivre les activités du réseau et proposer des actions (offres de stage et de mobilité, annonces de séminaires/webinaires/formations, etc.). La procédure est très simple :\n\nEnvoyer un mail à « sympa(at)listes.ird.fr »\nDans l’objet du mail inscrire « subscribe listat prénom NOM »\nNe rien mettre dans le corps du mail\n\nUn mail de confirmation d’inscription est envoyé en retour."
+  },
+  {
+    "objectID": "contact.html#comment-sabonner-à-la-liste-de-diffusion",
+    "href": "contact.html#comment-sabonner-à-la-liste-de-diffusion",
+    "title": "Contact & liste de diffusion",
+    "section": "",
+    "text": "Si vous le souhaitez, vous pouvez vous inscrire à la liste de diffusion pour suivre les activités du réseau et proposer des actions (offres de stage et de mobilité, annonces de séminaires/webinaires/formations, etc.). La procédure est très simple :\n\nEnvoyer un mail à « sympa(at)listes.ird.fr »\nDans l’objet du mail inscrire « subscribe listat prénom NOM »\nNe rien mettre dans le corps du mail\n\nUn mail de confirmation d’inscription est envoyé en retour."
+  },
+  {
+    "objectID": "contact.html#contacts",
+    "href": "contact.html#contacts",
+    "title": "Contact & liste de diffusion",
+    "section": "Contacts",
+    "text": "Contacts\nPour toute demande d’information concernant l’IRN LiStat, merci de contacter\n\nNicolas BEZ - nicolas.bez(at)ird.fr\nIRD, UMR Marbec, Sète, France,\n\nou\n\nDominique LAMONICA - dominique.lamonica(at)ird.fr\nIRD, UMR AMAP, Montpellier, France."
   }
 ]
