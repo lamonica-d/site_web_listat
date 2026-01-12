@@ -10,7 +10,7 @@ website:
       - href: actus.qmd
         text: Actualités
       - href: actions.qmd
-        text: Actions & Thèmes
+        text: Actions
       - href: bureau.qmd
         text: Bureau  
       - href: contact.qmd
