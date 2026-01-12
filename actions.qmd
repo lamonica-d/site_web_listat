@@ -2,9 +2,8 @@
 title: "Actions"
 ---
 
-## Actualités
+## Actions 2025
 
-Retrouvez les actualités de l'IRN [ici](actus.qmd).
 
 ## Actions 2024
 
