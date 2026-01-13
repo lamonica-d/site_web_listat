@@ -9,6 +9,8 @@ website:
         text: Accueil
       - href: actus.qmd
         text: Actualités
+      - href: webinaires.qmd
+        text: Webinaires  
       - href: actions.qmd
         text: Actions
       - href: bureau.qmd
