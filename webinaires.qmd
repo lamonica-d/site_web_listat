@@ -2,30 +2,36 @@
 title: "Programme des webinaires"
 ---
 
+* **Mardi 03 mars 2026** ; 11h30 – 12h30 (France – UTC+01:00)
+
+**Assane SAVADOGO** *Université Thomas SANKARA, Burkina-Faso*
+
+Modélisation mathématique d’une infection épidémiologique dans une communauté écologique intégrant la peur et le refuge.
+
 * **Mardi 3 février 2026** ; 11h30 – 12h30 (France – UTC+01:00)
 
-**Rickarlos BEZANDRY** / Université de Mahajanga, Madagascar \
-**Artemis ANEST** / AMAP, IRD, Montpellier, France
+**Rickarlos BEZANDRY** *Université de Mahajanga, Madagascar* \
+**Artemis ANEST** *AMAP, IRD, Montpellier, France*
 
 L’écologie évolutive peut-elle vraiment prédire l’avenir des espèces ? Un exemple de statistiques appliquées à la conservation.
 
 * **Mardi 13 janvier 2026** ; 11h30 – 12h30 (France – UTC+01:00)
 
-**Wendpanga BIRBA** / Université Nazi Boni, LaMIA, Bobo Dioulasso, Burkina-Faso
+**Wendpanga BIRBA** *Université Nazi Boni, LaMIA, Bobo Dioulasso, Burkina-Faso*
 
 Dynamique de transmission de la dengue intégrant les quatre sérotypes de la dengue et les phénomènes d'autorégulation du milieu.
 
 
 * **Mardi 9 décembre** ; 11h30 – 12h30 (France – UTC+01:00)
 
-**Noémie MUQUET & Julien PATRAS** / Marbec, IRD, Sète, France
+**Noémie MUQUET & Julien PATRAS** *Marbec, IRD, Sète, France*
 
 Vers un jumeau numérique des oiseaux marins : modèles d'IA générative pour la modélisation du mouvement.
 
 
 * **Vendredi 24 octobre 2025** ; 11h30 – 12h30 (France – UTC+02:00)
 
-**Radosoa ANDRIANAIVOARIVELO** / Madagascar
+**Radosoa ANDRIANAIVOARIVELO** *Madagascar*
 
 Mobilité des chauves-souris frugivores entre gîtes, de l’Ouest malgache, statistiques et enjeux écologiques.
 
