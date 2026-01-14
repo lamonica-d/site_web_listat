@@ -1,18 +1,24 @@
 ---
-title: "Actions"
+title: ""
 ---
 
 ## Actions 2025
 
+::: {.callout-note collapse="true"}
 ### École jeunes chercheurs
 
 ![Communiqué de presse](images/ia_mer_2025.png){.lightbox}
+::: 
 
+::: {.callout-note collapse="true"}
 ### Mobilités
 
 * *Assane SAVADOGO* \
 
 Mobilité sud-sud au Burkina-Fasso sur la modélisation et étude mathématique d’une infection épidémiologique dans une communauté écologique et au sein d’une population en commutation.
+
+![Projet de recherche A. Savadogo](images/Rapport-Savadogo-1.pdf){width=100% height=400}
+
 
 * *Radosoa ANDRIANAIVOARIVELO* \
 
@@ -25,6 +31,8 @@ Mobilité sud-nord du Cameroun à AMAP-Montpellier pour développer des modèles
 * *Fabrice NZOYEUEM DJONKO* \
 
 Mobilité sud-nord afin de prolonger un accueil à Bruxelles au sein d’AMAP-Montpellier dans le cadre de la thèse sur l’influence des dynamiques fluviales sur la diversité et la structure des forêts d’Afrique centrale. 
+::: 
+
 
 ## Actions 2024
 
@@ -58,23 +66,3 @@ Ma mission dans le cadre de l’étude de l’écologie des chauves-souris frugi
 ![Éric & Radosoa](images/photo_rado.jpg){width="15em"}
 
 :::
-
-## Thématiques
-
-Dans sa phase d’amorçage, le réseau a identifié trois thèmes principaux (mais non exclusifs d’autres thèmes) à savoir :
-
-* méthodes multidimensionnelles (multivariées, spatio-temporelles)
-
-* modèles hiérarchiques, modèles à espace d’états (modèles de dynamiques des populations, modèles épidémiologiques, …)
-
-* intelligence artificielle
-
-
-## Actions
-
-* le soutien financier à des stages co-encadrés par des partenaires Sud-Sud-Nord de LiStat
-
-* le soutien financier à des mobilités de scientifiques entre laboratoires Sud-Sud-Nord de LiStat
-
-* l’organisation de formation sur des thèmes d’intérêts identifiés par les membres de LiStat
-
