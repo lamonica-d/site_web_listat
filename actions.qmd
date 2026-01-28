@@ -24,6 +24,8 @@ Mobilité sud-sud au Burkina-Fasso sur la modélisation et étude mathématique 
 
 Mobilité sud-sud à Madagascar pour l’organisation d’ateliers sur l’évolution des populations de chauves-souris frugivores de Madagascar sur les deux dernières décennies : menaces et opportunités » dans les universités d’Antananarivo, de Toliara, de Morondava et de Mahajanga.
 
+![Projet de recherche R. Andrianaivoarivelo](images/rapport_rado_2025.pdf){width=100% height=400}
+
 * *Luis Fernandez NGOULA* \
 
 Mobilité sud-nord du Cameroun à AMAP-Montpellier pour développer des modèles bayésiens de régressions non-linéaires adaptés à la démographie des arbres dans les forêts tropicales d’Afrique Centrale.
